@@ -1,0 +1,4 @@
+https://sunnynetwork.wordpress.com/2017/11/30/lab-48-802-1x-port-based-authentication/
+
+
+https://tldp.org/HOWTO/html_single/8021X-HOWTO/#FreeRADIUS
